@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-*
+.coverage
+coverage.json
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+.agents/**/credentials*
+.agents/**/logs/
